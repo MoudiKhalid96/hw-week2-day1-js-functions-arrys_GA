@@ -94,7 +94,7 @@ reverse("caterpillar") // should return "rallipretac"
   ```
   addDashes(['test1', 'test2', 'test3']) // should return "test1-test2-test3"
   ```
- ## Extra Practice Optional 6,7,8,9,10,11 
+ ## Extra Practice Optional 6,7,8,9,10
 #### Exercise 6:
 Function that will count up to a number and back down and return a string of the climb
 
