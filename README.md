@@ -31,6 +31,7 @@ x();
 4. anywhere inside the function `z()`
 
 ### Choose the correct answer
+<b>ANSWERE</b>: anywhere inside the function y()
 
 ---
 
@@ -53,7 +54,7 @@ x();
 #### Exercise 4: isCharacterAVowel(character)
   - Write a function `isCharacterAVowel` that takes a character (i.e. a string of length 1) and returns true if it is a vowel and false, otherwise.
 ---
-# JS Arrays and Loops Week2 Homework1
+# JS Arrays and Loops Week2 Homework2
 
 #### Exercise 1:
 Create a function that will get the sum of the numbers between 1 and n and return the answer
@@ -128,13 +129,3 @@ Function that returns the largest even number
 ```
  largestEvenNumber([1,2,3,10,4,7,0]) // should return "10"
 ```
-
-
-### Deliverable  
-1. When finished, `git add .`, `git commit -m " "`, `git push origin master` to your fork and submit a pull request.
-2. Please fill up the following questions when you pull request:
-- on a scale from 1 to 5, how comfortable were you with this assignment? (1 is very difficult)
-- How long did it take?
-- What was a challenge you had with this assignment?
-- Is there anything that you'd like some further information on?
-- Do you have any suggestions to improve this assignment?
