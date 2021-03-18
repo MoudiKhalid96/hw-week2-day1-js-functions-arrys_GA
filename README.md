@@ -1,5 +1,5 @@
 # JS Functions Week2 Homework1
-
+<small style="color: gray">This was HW work from <span title="General Assembly">GA</span></small>
 ## Instructions
 1. Fork and clone this repository.
 2. cd into the new directory
